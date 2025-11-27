@@ -1,4 +1,8 @@
 node_modules/.cache/
+node_modules/
+.cache/
+*.pack
+
 
 # Dependencies
 node_modules/
